@@ -7,7 +7,7 @@ h2. About Me (Bio)
 
 Matthew Deiters is a Software Architect at McKinsey & Company in San Francisco, CA.
 
-Matthew has been focusing on end-to-end software development and delivery of complex systems for nearly a decade. He is an active member of the agile and open source community. Matthew first honed his agile skills while working for ThoughtWorks in the US and Australia. He spoken at several conferences and is always looking to share his ideas with others 
+Matthew has been focusing on end-to-end software development and delivery of complex systems for nearly a decade. He is an active member of the agile and open source community and initially honed his agile skills while working for ThoughtWorks in the US and Australia. He has spoken at several conferences and is always looking to share his ideas with others.
 
 In his spare time, Matt is a part time foodie enjoying cooking and drink plenty of wine. Having visited to more then 33 countries, he is always looking for somewhere new to explore.
 
