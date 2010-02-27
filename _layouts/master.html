@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" charset="utf-8"/>
     <link rel="stylesheet" href="/stylesheets/syntax.css" type="text/css" media="screen" charset="utf-8"/>
     <script src="/javascripts/jquery.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/javascripts/jquery.github.js" type="text/javascript" charset="utf-8"></script>
     <link rel='alternate' type='application/rss+xml' href='http://blog.theagiledeveloper.com/rss.xml' />
   </head>
   <body>
@@ -25,7 +26,7 @@
         </div>
       </div>
       <div id='content'>
-        You have requested a page that does not exist.
+        {{ content }}
         <div class='clearfix'></div>
       </div>
     </div>
@@ -33,4 +34,12 @@
       Copyright &copy; 2010 Matthew Deiters. Some rights reserved.
     </div>
   </body>
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-797907-1");
+  pageTracker._trackPageview();
+  </script>
 </html>
