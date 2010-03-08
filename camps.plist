@@ -19,7 +19,7 @@
 						<key>schedule</key>
 						<dict>
 							<key>mon</key>
-							<string>0:50-12:30, 13:00-24:00</string>
+							<string>1:05-12:30, 13:00-24:00</string>
 							<key>tue</key>
 							<string>1:30-12:30, 13:00-24:00</string>
 							<key>wed</key>
