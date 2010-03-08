@@ -16,14 +16,6 @@
 						<string>Camera 1</string>
 						<key>url</key>
 						<string>http://bowwow78.viewmydog.com/cam0.jpg</string>
-					</dict>
-					<dict>
-						<key>url</key>
-						<string>http://bowwow78.viewmydog.com/cam9.jpg</string>
-						<key>name</key>
-						<string>Camera 2</string>
-						<key>password</key>
-						<string>asdf</string>
 						<key>schedule</key>
 						<dict>
 							<key>mon</key>
@@ -43,6 +35,14 @@
 							<key>10/12/2009</key>
 							<string>1:30-12:30, 13:00-24:00</string>
 						</dict>
+					</dict>
+					<dict>
+						<key>url</key>
+						<string>http://bowwow78.viewmydog.com/cam9.jpg</string>
+						<key>name</key>
+						<string>Camera 2</string>
+						<key>password</key>
+						<string>asdf</string>
 					</dict>
 				</array>
 			</dict>
