@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AR</key>
+	<array>
+		<dict>
+			<key>Bentonville</key>
+			<dict>
+				<key>TimeZone</key>
+				<string>EST</string>
+				<key>Cameras</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Camera 1</string>
+						<key>url</key>
+						<string>http://bowwow78.viewmydog.com/cam0.jpg</string>
+					</dict>
+					<dict>
+						<key>url</key>
+						<string>http://bowwow78.viewmydog.com/cam9.jpg</string>
+						<key>name</key>
+						<string>Camera 2</string>
+						<key>password</key>
+						<string>asdf</string>
+						<key>schedule</key>
+						<dict>
+							<key>mon</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>tue</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>wed</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>thr</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>fri</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>sat</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>sun</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+							<key>10/12/2009</key>
+							<string>1:30-12:30, 13:00-24:00</string>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
